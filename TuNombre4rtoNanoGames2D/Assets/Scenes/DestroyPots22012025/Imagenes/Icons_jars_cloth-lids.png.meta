@@ -1,0 +1,3237 @@
+fileFormatVersion: 2
+guid: f87e2685893e3df49ab7f31b37b91aca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5465477940476208979
+    second: Icons_jars_cloth-lids_0
+  - first:
+      213: -5163003916165948944
+    second: Icons_jars_cloth-lids_1
+  - first:
+      213: 5315806059478396638
+    second: Icons_jars_cloth-lids_2
+  - first:
+      213: 5812415483159359022
+    second: Icons_jars_cloth-lids_3
+  - first:
+      213: -2378256651064051902
+    second: Icons_jars_cloth-lids_4
+  - first:
+      213: -8839270560307547583
+    second: Icons_jars_cloth-lids_5
+  - first:
+      213: 7743852256596509012
+    second: Icons_jars_cloth-lids_6
+  - first:
+      213: 1875972294668092715
+    second: Icons_jars_cloth-lids_7
+  - first:
+      213: -561632885924774977
+    second: Icons_jars_cloth-lids_8
+  - first:
+      213: 7195635663452357167
+    second: Icons_jars_cloth-lids_9
+  - first:
+      213: 504729729713664002
+    second: Icons_jars_cloth-lids_10
+  - first:
+      213: 6561355373051612062
+    second: Icons_jars_cloth-lids_11
+  - first:
+      213: 1298915675128528486
+    second: Icons_jars_cloth-lids_12
+  - first:
+      213: -2281883965799365252
+    second: Icons_jars_cloth-lids_13
+  - first:
+      213: -3015442105219394611
+    second: Icons_jars_cloth-lids_14
+  - first:
+      213: -966092457360187457
+    second: Icons_jars_cloth-lids_15
+  - first:
+      213: 2039555170184533035
+    second: Icons_jars_cloth-lids_16
+  - first:
+      213: 6340825389571444464
+    second: Icons_jars_cloth-lids_17
+  - first:
+      213: 3604839148502838331
+    second: Icons_jars_cloth-lids_18
+  - first:
+      213: 4947218959095472988
+    second: Icons_jars_cloth-lids_19
+  - first:
+      213: 8535933586012247807
+    second: Icons_jars_cloth-lids_20
+  - first:
+      213: -478255842152452815
+    second: Icons_jars_cloth-lids_21
+  - first:
+      213: -3162631116680522722
+    second: Icons_jars_cloth-lids_22
+  - first:
+      213: 1135736241321803468
+    second: Icons_jars_cloth-lids_23
+  - first:
+      213: -907522845777240801
+    second: Icons_jars_cloth-lids_24
+  - first:
+      213: -6276349360280144389
+    second: Icons_jars_cloth-lids_25
+  - first:
+      213: 4933804361610122139
+    second: Icons_jars_cloth-lids_26
+  - first:
+      213: -184791422250195748
+    second: Icons_jars_cloth-lids_27
+  - first:
+      213: 1652623400435046918
+    second: Icons_jars_cloth-lids_28
+  - first:
+      213: 1032404237551022070
+    second: Icons_jars_cloth-lids_29
+  - first:
+      213: -5472208935140118853
+    second: Icons_jars_cloth-lids_30
+  - first:
+      213: 5496448726614702643
+    second: Icons_jars_cloth-lids_31
+  - first:
+      213: 7611856419972285494
+    second: Icons_jars_cloth-lids_32
+  - first:
+      213: 575172931029634801
+    second: Icons_jars_cloth-lids_33
+  - first:
+      213: 5723089455542860166
+    second: Icons_jars_cloth-lids_34
+  - first:
+      213: 8301574164206510197
+    second: Icons_jars_cloth-lids_35
+  - first:
+      213: -2440771247368071712
+    second: Icons_jars_cloth-lids_36
+  - first:
+      213: -1558469361085371147
+    second: Icons_jars_cloth-lids_37
+  - first:
+      213: -9191997642288290435
+    second: Icons_jars_cloth-lids_38
+  - first:
+      213: 4814431833418205591
+    second: Icons_jars_cloth-lids_39
+  - first:
+      213: -8947523178827565631
+    second: Icons_jars_cloth-lids_40
+  - first:
+      213: -6202833110437989403
+    second: Icons_jars_cloth-lids_41
+  - first:
+      213: -7958758605432106389
+    second: Icons_jars_cloth-lids_42
+  - first:
+      213: -1355334910845442519
+    second: Icons_jars_cloth-lids_43
+  - first:
+      213: -85709334129657978
+    second: Icons_jars_cloth-lids_44
+  - first:
+      213: -7108304942382729086
+    second: Icons_jars_cloth-lids_45
+  - first:
+      213: 1718845004192531350
+    second: Icons_jars_cloth-lids_46
+  - first:
+      213: 7137187890640441366
+    second: Icons_jars_cloth-lids_47
+  - first:
+      213: 6272688626720907135
+    second: Icons_jars_cloth-lids_48
+  - first:
+      213: 5105997920856346673
+    second: Icons_jars_cloth-lids_49
+  - first:
+      213: 1762799378076051749
+    second: Icons_jars_cloth-lids_50
+  - first:
+      213: 809371922574693567
+    second: Icons_jars_cloth-lids_51
+  - first:
+      213: -6133810467856890803
+    second: Icons_jars_cloth-lids_52
+  - first:
+      213: -6347041283437493523
+    second: Icons_jars_cloth-lids_53
+  - first:
+      213: -6701460170843864405
+    second: Icons_jars_cloth-lids_54
+  - first:
+      213: 6806412137564771904
+    second: Icons_jars_cloth-lids_55
+  - first:
+      213: -1200978381038309696
+    second: Icons_jars_cloth-lids_56
+  - first:
+      213: -8450751347474416628
+    second: Icons_jars_cloth-lids_57
+  - first:
+      213: 7169684989127560789
+    second: Icons_jars_cloth-lids_58
+  - first:
+      213: 4658297359397684703
+    second: Icons_jars_cloth-lids_59
+  - first:
+      213: -1887388506620471342
+    second: Icons_jars_cloth-lids_60
+  - first:
+      213: 3534525200719636644
+    second: Icons_jars_cloth-lids_61
+  - first:
+      213: -5668615736945981334
+    second: Icons_jars_cloth-lids_62
+  - first:
+      213: 3248482401217216817
+    second: Icons_jars_cloth-lids_63
+  - first:
+      213: 5442229473550121649
+    second: Icons_jars_cloth-lids_64
+  - first:
+      213: 3229313579229681435
+    second: Icons_jars_cloth-lids_65
+  - first:
+      213: 6074627643517710160
+    second: Icons_jars_cloth-lids_66
+  - first:
+      213: 6346538724248729082
+    second: Icons_jars_cloth-lids_67
+  - first:
+      213: -1782663451028630514
+    second: Icons_jars_cloth-lids_68
+  - first:
+      213: 8037983878061823322
+    second: Icons_jars_cloth-lids_69
+  - first:
+      213: -1733736360502688455
+    second: Icons_jars_cloth-lids_70
+  - first:
+      213: 2479574538343290554
+    second: Icons_jars_cloth-lids_71
+  - first:
+      213: 2088975007332352677
+    second: Icons_jars_cloth-lids_72
+  - first:
+      213: -6986718844142625992
+    second: Icons_jars_cloth-lids_73
+  - first:
+      213: -2143202316815005064
+    second: Icons_jars_cloth-lids_74
+  - first:
+      213: -5979774151070690645
+    second: Icons_jars_cloth-lids_75
+  - first:
+      213: -5907007467871860079
+    second: Icons_jars_cloth-lids_76
+  - first:
+      213: 4976132331745247449
+    second: Icons_jars_cloth-lids_77
+  - first:
+      213: -3417997646898188442
+    second: Icons_jars_cloth-lids_78
+  - first:
+      213: -5814756312975554360
+    second: Icons_jars_cloth-lids_79
+  - first:
+      213: -2816169171634635427
+    second: Icons_jars_cloth-lids_80
+  - first:
+      213: -3443949289374645041
+    second: Icons_jars_cloth-lids_81
+  - first:
+      213: -5156234922227362774
+    second: Icons_jars_cloth-lids_82
+  - first:
+      213: -5415869143811176483
+    second: Icons_jars_cloth-lids_83
+  - first:
+      213: 5193691774736898423
+    second: Icons_jars_cloth-lids_84
+  - first:
+      213: -1784147154587492496
+    second: Icons_jars_cloth-lids_85
+  - first:
+      213: 653397428974200612
+    second: Icons_jars_cloth-lids_86
+  - first:
+      213: -5617126771657478521
+    second: Icons_jars_cloth-lids_87
+  - first:
+      213: -6634558310862409049
+    second: Icons_jars_cloth-lids_88
+  - first:
+      213: -5704544586730663886
+    second: Icons_jars_cloth-lids_89
+  - first:
+      213: 2531300871648657659
+    second: Icons_jars_cloth-lids_90
+  - first:
+      213: 5311742393616048168
+    second: Icons_jars_cloth-lids_91
+  - first:
+      213: 8152385393332596028
+    second: Icons_jars_cloth-lids_92
+  - first:
+      213: -5189688576438077360
+    second: Icons_jars_cloth-lids_93
+  - first:
+      213: 2958283134912090134
+    second: Icons_jars_cloth-lids_94
+  - first:
+      213: -2650796354565069084
+    second: Icons_jars_cloth-lids_95
+  - first:
+      213: 9037689094448870400
+    second: Icons_jars_cloth-lids_96
+  - first:
+      213: 4133255115953968239
+    second: Icons_jars_cloth-lids_97
+  - first:
+      213: -3055171104130711251
+    second: Icons_jars_cloth-lids_98
+  - first:
+      213: 9087454348943804204
+    second: Icons_jars_cloth-lids_99
+  - first:
+      213: 5965963160520661897
+    second: Icons_jars_cloth-lids_100
+  - first:
+      213: -2477359074099125724
+    second: Icons_jars_cloth-lids_101
+  - first:
+      213: -8269115958710658302
+    second: Icons_jars_cloth-lids_102
+  - first:
+      213: -3852784798887192186
+    second: Icons_jars_cloth-lids_103
+  - first:
+      213: -4977983949897154061
+    second: Icons_jars_cloth-lids_104
+  - first:
+      213: -4334496587191125830
+    second: Icons_jars_cloth-lids_105
+  - first:
+      213: -5135162857589391602
+    second: Icons_jars_cloth-lids_106
+  - first:
+      213: -2868119130866766928
+    second: Icons_jars_cloth-lids_107
+  - first:
+      213: 3885116917679494764
+    second: Icons_jars_cloth-lids_108
+  - first:
+      213: 3881229477337131510
+    second: Icons_jars_cloth-lids_109
+  - first:
+      213: 1004213729670470116
+    second: Icons_jars_cloth-lids_110
+  - first:
+      213: 3806706284374347211
+    second: Icons_jars_cloth-lids_111
+  - first:
+      213: 7183698409814875323
+    second: Icons_jars_cloth-lids_112
+  - first:
+      213: 6664939869104419140
+    second: Icons_jars_cloth-lids_113
+  - first:
+      213: -126532841809547308
+    second: Icons_jars_cloth-lids_114
+  - first:
+      213: 5922748401662335402
+    second: Icons_jars_cloth-lids_115
+  - first:
+      213: -5611781566842503539
+    second: Icons_jars_cloth-lids_116
+  - first:
+      213: -5496241468243003195
+    second: Icons_jars_cloth-lids_117
+  - first:
+      213: 8498273379036066150
+    second: Icons_jars_cloth-lids_118
+  - first:
+      213: -3117053213348741466
+    second: Icons_jars_cloth-lids_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 356
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da89e2e35c8b624b0800000000000000
+      internalID: -5465477940476208979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 356
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f95af20b435958b0800000000000000
+      internalID: -5163003916165948944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 356
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede241e527985c940800000000000000
+      internalID: 5315806059478396638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 356
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ea1b02619d9a050800000000000000
+      internalID: 5812415483159359022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 356
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247fd982d2cbefed0800000000000000
+      internalID: -2378256651064051902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 356
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142fc43024a945580800000000000000
+      internalID: -8839270560307547583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 356
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451ca834990b77b60800000000000000
+      internalID: 7743852256596509012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 356
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b258a28dcdac80a10800000000000000
+      internalID: 1875972294668092715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 356
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbb64caddda438f0800000000000000
+      internalID: -561632885924774977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 356
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22c53503880cd360800000000000000
+      internalID: 7195635663452357167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 324
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2007927d309210700800000000000000
+      internalID: 504729729713664002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 324
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b87dfb2fd9e0b50800000000000000
+      internalID: 6561355373051612062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 324
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ef831bceca60210800000000000000
+      internalID: 1298915675128528486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 324
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c758edf7f9e1550e0800000000000000
+      internalID: -2281883965799365252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 324
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc354adb16ff626d0800000000000000
+      internalID: -3015442105219394611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_15
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 324
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf9cd25700c792f0800000000000000
+      internalID: -966092457360187457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 324
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2419aa0f94fd4c10800000000000000
+      internalID: 2039555170184533035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_17
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 324
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe0f20c8132ff750800000000000000
+      internalID: 6340825389571444464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 324
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ceee63b16f60230800000000000000
+      internalID: 3604839148502838331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_19
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 324
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53a6fa8e6d08a440800000000000000
+      internalID: 4947218959095472988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 292
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff616940f5ab57670800000000000000
+      internalID: 8535933586012247807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_21
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 292
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d6fb078d4ec59f0800000000000000
+      internalID: -478255842152452815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_22
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 292
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1419a671c31c14d0800000000000000
+      internalID: -3162631116680522722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_23
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 292
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccef5861812f2cf00800000000000000
+      internalID: 1135736241321803468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_24
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 292
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d55efa7c4d763f0800000000000000
+      internalID: -907522845777240801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_25
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 292
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf57046a28de5e8a0800000000000000
+      internalID: -6276349360280144389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_26
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 292
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b935b0d2de4687440800000000000000
+      internalID: 4933804361610122139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_27
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 292
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4ec373e2d7f6df0800000000000000
+      internalID: -184791422250195748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_28
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 292
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60add6a0a3c4fe610800000000000000
+      internalID: 1652623400435046918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_29
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 292
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff26d32f26d35e00800000000000000
+      internalID: 1032404237551022070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 260
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe214c67fece04b0800000000000000
+      internalID: -5472208935140118853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_31
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 260
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a7404defe474c40800000000000000
+      internalID: 5496448726614702643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_32
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 260
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63489b9a51fb2a960800000000000000
+      internalID: 7611856419972285494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_33
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 260
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe017ebbbc6bf700800000000000000
+      internalID: 575172931029634801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_34
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 260
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6897a6f998f7c6f40800000000000000
+      internalID: 5723089455542860166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_35
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 260
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570e61ef7bd153370800000000000000
+      internalID: 8301574164206510197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_36
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 260
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e593a67b73a02ed0800000000000000
+      internalID: -2440771247368071712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_37
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 260
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc2d2b8f543f5ae0800000000000000
+      internalID: -1558469361085371147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_38
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 260
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75ad2b78d67f6080800000000000000
+      internalID: -9191997642288290435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_39
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 260
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799893a9e3c40d240800000000000000
+      internalID: 4814431833418205591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 228
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5b86a231304d380800000000000000
+      internalID: -8947523178827565631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_41
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 228
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3ff4b662c1be9a0800000000000000
+      internalID: -6202833110437989403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_42
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 228
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62d226373fcc8190800000000000000
+      internalID: -7958758605432106389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_43
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 228
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9262f575412e03de0800000000000000
+      internalID: -1355334910845442519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_44
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 228
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687344190df7fcef0800000000000000
+      internalID: -85709334129657978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_45
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 228
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288bf1af05a3a5d90800000000000000
+      internalID: -7108304942382729086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_46
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 228
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693c9daac609ad710800000000000000
+      internalID: 1718845004192531350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_47
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 228
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610d7d472926c0360800000000000000
+      internalID: 7137187890640441366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_48
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 228
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f155662111d0750800000000000000
+      internalID: 6272688626720907135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_49
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 228
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13096886e062cd640800000000000000
+      internalID: 5105997920856346673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_50
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 196
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529a084d1b8b67810800000000000000
+      internalID: 1762799378076051749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_51
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 196
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb45d30b9777b3b00800000000000000
+      internalID: 809371922574693567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_52
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 196
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4441d7b0e350eaa0800000000000000
+      internalID: -6133810467856890803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_53
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 196
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de208fda497cae7a0800000000000000
+      internalID: -6347041283437493523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_54
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 196
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba24c600b71aff2a0800000000000000
+      internalID: -6701460170843864405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_55
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 196
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0469476f6cb357e50800000000000000
+      internalID: 6806412137564771904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_56
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 196
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cea9478684455fe0800000000000000
+      internalID: -1200978381038309696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_57
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 196
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c32a86c66e8ba80800000000000000
+      internalID: -8450751347474416628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_58
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 196
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e0660d286df7360800000000000000
+      internalID: 7169684989127560789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_59
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 196
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd50a0584c895a040800000000000000
+      internalID: 4658297359397684703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 164
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d75bbd2726aec5e0800000000000000
+      internalID: -1887388506620471342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_61
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 164
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a86f8e71f72d0130800000000000000
+      internalID: 3534525200719636644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_62
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 164
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68452755080551b0800000000000000
+      internalID: -5668615736945981334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_63
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 164
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13109af588de41d20800000000000000
+      internalID: 3248482401217216817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_64
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 164
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1babd1d3fdea68b40800000000000000
+      internalID: 5442229473550121649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_65
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 164
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1794563793d0dc20800000000000000
+      internalID: 3229313579229681435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_66
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 164
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f24a238a96d4450800000000000000
+      internalID: 6074627643517710160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_67
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 164
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af53b14285f631850800000000000000
+      internalID: 6346538724248729082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_68
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 164
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04dd574905b247e0800000000000000
+      internalID: -1782663451028630514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_69
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 164
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55113200c7ac8f60800000000000000
+      internalID: 8037983878061823322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_70
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 132
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9350f0247f780f7e0800000000000000
+      internalID: -1733736360502688455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_71
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 132
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab61e00c7e7396220800000000000000
+      internalID: 2479574538343290554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_72
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 132
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2c6b883b78dfc10800000000000000
+      internalID: 2088975007332352677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_73
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 132
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83bd95d7a303a0f90800000000000000
+      internalID: -6986718844142625992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_74
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 132
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a827819d0d142e0800000000000000
+      internalID: -2143202316815005064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_75
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 132
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba25e508713930da0800000000000000
+      internalID: -5979774151070690645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_76
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 132
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a0bef2108160ea0800000000000000
+      internalID: -5907007467871860079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_77
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 132
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d00305bdf5ce0540800000000000000
+      internalID: 4976132331745247449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_78
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 132
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f238ddf35d090d0800000000000000
+      internalID: -3417997646898188442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_79
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 132
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8c1a5f0f5dd4fa0800000000000000
+      internalID: -5814756312975554360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_80
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 100
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5dbf412f05fae8d0800000000000000
+      internalID: -2816169171634635427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_81
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 100
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc48d5e3e52a430d0800000000000000
+      internalID: -3443949289374645041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_82
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 100
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a249c2a38af5178b0800000000000000
+      internalID: -5156234922227362774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_83
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 100
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7c22d45b7f6d4b0800000000000000
+      internalID: -5415869143811176483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_84
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 100
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7799f0ad623b31840800000000000000
+      internalID: 5193691774736898423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_85
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 100
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fd9cf9d9f6d37e0800000000000000
+      internalID: -1784147154587492496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_86
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4272923ff75511900800000000000000
+      internalID: 653397428974200612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_87
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 100
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ee40546f4fb02b0800000000000000
+      internalID: -5617126771657478521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_88
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 100
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a23e6f1e505de3a0800000000000000
+      internalID: -6634558310862409049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_89
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 100
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2309a8e1ce265d0b0800000000000000
+      internalID: -5704544586730663886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_90
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 68
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0414a3bbcf02320800000000000000
+      internalID: 2531300871648657659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_91
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 68
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8202edd609917b940800000000000000
+      internalID: 5311742393616048168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_92
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 68
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d2ca17257132170800000000000000
+      internalID: 8152385393332596028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_93
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 68
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05871826cb58af7b0800000000000000
+      internalID: -5189688576438077360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_94
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 68
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610d67966deed0920800000000000000
+      internalID: 2958283134912090134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_95
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 68
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6af3292ca763bd0800000000000000
+      internalID: -2650796354565069084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_96
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 68
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004fb0109525c6d70800000000000000
+      internalID: 9037689094448870400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_97
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 68
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64908801a54c5930800000000000000
+      internalID: 4133255115953968239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_98
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 68
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21404a511ad995d0800000000000000
+      internalID: -3055171104130711251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_99
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 68
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27cf5d359f1d1e70800000000000000
+      internalID: 9087454348943804204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_100
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 36
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b96eda2eb5bc250800000000000000
+      internalID: 5965963160520661897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_101
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 36
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4222b373c07ae9dd0800000000000000
+      internalID: -2477359074099125724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_102
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 36
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b9982e8d23e3d80800000000000000
+      internalID: -8269115958710658302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_103
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 36
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689dd4a63a8288ac0800000000000000
+      internalID: -3852784798887192186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_104
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 36
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1c8c8d8f5aaeab0800000000000000
+      internalID: -4977983949897154061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_105
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 36
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab87450b156c8d3c0800000000000000
+      internalID: -4334496587191125830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_106
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 36
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fba99969c3cb8b0800000000000000
+      internalID: -5135162857589391602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_107
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 36
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb2f2fa8d46238d0800000000000000
+      internalID: -2868119130866766928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_108
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 36
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66952d9045bae530800000000000000
+      internalID: 3885116917679494764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_109
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 36
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9647065a5ecd530800000000000000
+      internalID: 3881229477337131510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_110
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9149b011fafed00800000000000000
+      internalID: 1004213729670470116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_111
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 4
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd4164623324d430800000000000000
+      internalID: 3806706284374347211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_112
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 4
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcdd8294af91b360800000000000000
+      internalID: 7183698409814875323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_113
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 4
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441be43af7f9e7c50800000000000000
+      internalID: 6664939869104419140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_114
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 4
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df658ffc077e3ef0800000000000000
+      internalID: -126532841809547308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_115
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 4
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9981f8a44d13250800000000000000
+      internalID: 5922748401662335402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_116
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 4
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e744fb562fe12b0800000000000000
+      internalID: -5611781566842503539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_117
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 4
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8ba95418d69b3b0800000000000000
+      internalID: -5496241468243003195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_118
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 4
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6617a99cc9eefe570800000000000000
+      internalID: 8498273379036066150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_jars_cloth-lids_119
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 4
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aebb580e900eb4d0800000000000000
+      internalID: -3117053213348741466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f4daca80c92d1d7478663bee55b5559c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Icons_jars_cloth-lids_0: -5465477940476208979
+      Icons_jars_cloth-lids_1: -5163003916165948944
+      Icons_jars_cloth-lids_10: 504729729713664002
+      Icons_jars_cloth-lids_100: 5965963160520661897
+      Icons_jars_cloth-lids_101: -2477359074099125724
+      Icons_jars_cloth-lids_102: -8269115958710658302
+      Icons_jars_cloth-lids_103: -3852784798887192186
+      Icons_jars_cloth-lids_104: -4977983949897154061
+      Icons_jars_cloth-lids_105: -4334496587191125830
+      Icons_jars_cloth-lids_106: -5135162857589391602
+      Icons_jars_cloth-lids_107: -2868119130866766928
+      Icons_jars_cloth-lids_108: 3885116917679494764
+      Icons_jars_cloth-lids_109: 3881229477337131510
+      Icons_jars_cloth-lids_11: 6561355373051612062
+      Icons_jars_cloth-lids_110: 1004213729670470116
+      Icons_jars_cloth-lids_111: 3806706284374347211
+      Icons_jars_cloth-lids_112: 7183698409814875323
+      Icons_jars_cloth-lids_113: 6664939869104419140
+      Icons_jars_cloth-lids_114: -126532841809547308
+      Icons_jars_cloth-lids_115: 5922748401662335402
+      Icons_jars_cloth-lids_116: -5611781566842503539
+      Icons_jars_cloth-lids_117: -5496241468243003195
+      Icons_jars_cloth-lids_118: 8498273379036066150
+      Icons_jars_cloth-lids_119: -3117053213348741466
+      Icons_jars_cloth-lids_12: 1298915675128528486
+      Icons_jars_cloth-lids_13: -2281883965799365252
+      Icons_jars_cloth-lids_14: -3015442105219394611
+      Icons_jars_cloth-lids_15: -966092457360187457
+      Icons_jars_cloth-lids_16: 2039555170184533035
+      Icons_jars_cloth-lids_17: 6340825389571444464
+      Icons_jars_cloth-lids_18: 3604839148502838331
+      Icons_jars_cloth-lids_19: 4947218959095472988
+      Icons_jars_cloth-lids_2: 5315806059478396638
+      Icons_jars_cloth-lids_20: 8535933586012247807
+      Icons_jars_cloth-lids_21: -478255842152452815
+      Icons_jars_cloth-lids_22: -3162631116680522722
+      Icons_jars_cloth-lids_23: 1135736241321803468
+      Icons_jars_cloth-lids_24: -907522845777240801
+      Icons_jars_cloth-lids_25: -6276349360280144389
+      Icons_jars_cloth-lids_26: 4933804361610122139
+      Icons_jars_cloth-lids_27: -184791422250195748
+      Icons_jars_cloth-lids_28: 1652623400435046918
+      Icons_jars_cloth-lids_29: 1032404237551022070
+      Icons_jars_cloth-lids_3: 5812415483159359022
+      Icons_jars_cloth-lids_30: -5472208935140118853
+      Icons_jars_cloth-lids_31: 5496448726614702643
+      Icons_jars_cloth-lids_32: 7611856419972285494
+      Icons_jars_cloth-lids_33: 575172931029634801
+      Icons_jars_cloth-lids_34: 5723089455542860166
+      Icons_jars_cloth-lids_35: 8301574164206510197
+      Icons_jars_cloth-lids_36: -2440771247368071712
+      Icons_jars_cloth-lids_37: -1558469361085371147
+      Icons_jars_cloth-lids_38: -9191997642288290435
+      Icons_jars_cloth-lids_39: 4814431833418205591
+      Icons_jars_cloth-lids_4: -2378256651064051902
+      Icons_jars_cloth-lids_40: -8947523178827565631
+      Icons_jars_cloth-lids_41: -6202833110437989403
+      Icons_jars_cloth-lids_42: -7958758605432106389
+      Icons_jars_cloth-lids_43: -1355334910845442519
+      Icons_jars_cloth-lids_44: -85709334129657978
+      Icons_jars_cloth-lids_45: -7108304942382729086
+      Icons_jars_cloth-lids_46: 1718845004192531350
+      Icons_jars_cloth-lids_47: 7137187890640441366
+      Icons_jars_cloth-lids_48: 6272688626720907135
+      Icons_jars_cloth-lids_49: 5105997920856346673
+      Icons_jars_cloth-lids_5: -8839270560307547583
+      Icons_jars_cloth-lids_50: 1762799378076051749
+      Icons_jars_cloth-lids_51: 809371922574693567
+      Icons_jars_cloth-lids_52: -6133810467856890803
+      Icons_jars_cloth-lids_53: -6347041283437493523
+      Icons_jars_cloth-lids_54: -6701460170843864405
+      Icons_jars_cloth-lids_55: 6806412137564771904
+      Icons_jars_cloth-lids_56: -1200978381038309696
+      Icons_jars_cloth-lids_57: -8450751347474416628
+      Icons_jars_cloth-lids_58: 7169684989127560789
+      Icons_jars_cloth-lids_59: 4658297359397684703
+      Icons_jars_cloth-lids_6: 7743852256596509012
+      Icons_jars_cloth-lids_60: -1887388506620471342
+      Icons_jars_cloth-lids_61: 3534525200719636644
+      Icons_jars_cloth-lids_62: -5668615736945981334
+      Icons_jars_cloth-lids_63: 3248482401217216817
+      Icons_jars_cloth-lids_64: 5442229473550121649
+      Icons_jars_cloth-lids_65: 3229313579229681435
+      Icons_jars_cloth-lids_66: 6074627643517710160
+      Icons_jars_cloth-lids_67: 6346538724248729082
+      Icons_jars_cloth-lids_68: -1782663451028630514
+      Icons_jars_cloth-lids_69: 8037983878061823322
+      Icons_jars_cloth-lids_7: 1875972294668092715
+      Icons_jars_cloth-lids_70: -1733736360502688455
+      Icons_jars_cloth-lids_71: 2479574538343290554
+      Icons_jars_cloth-lids_72: 2088975007332352677
+      Icons_jars_cloth-lids_73: -6986718844142625992
+      Icons_jars_cloth-lids_74: -2143202316815005064
+      Icons_jars_cloth-lids_75: -5979774151070690645
+      Icons_jars_cloth-lids_76: -5907007467871860079
+      Icons_jars_cloth-lids_77: 4976132331745247449
+      Icons_jars_cloth-lids_78: -3417997646898188442
+      Icons_jars_cloth-lids_79: -5814756312975554360
+      Icons_jars_cloth-lids_8: -561632885924774977
+      Icons_jars_cloth-lids_80: -2816169171634635427
+      Icons_jars_cloth-lids_81: -3443949289374645041
+      Icons_jars_cloth-lids_82: -5156234922227362774
+      Icons_jars_cloth-lids_83: -5415869143811176483
+      Icons_jars_cloth-lids_84: 5193691774736898423
+      Icons_jars_cloth-lids_85: -1784147154587492496
+      Icons_jars_cloth-lids_86: 653397428974200612
+      Icons_jars_cloth-lids_87: -5617126771657478521
+      Icons_jars_cloth-lids_88: -6634558310862409049
+      Icons_jars_cloth-lids_89: -5704544586730663886
+      Icons_jars_cloth-lids_9: 7195635663452357167
+      Icons_jars_cloth-lids_90: 2531300871648657659
+      Icons_jars_cloth-lids_91: 5311742393616048168
+      Icons_jars_cloth-lids_92: 8152385393332596028
+      Icons_jars_cloth-lids_93: -5189688576438077360
+      Icons_jars_cloth-lids_94: 2958283134912090134
+      Icons_jars_cloth-lids_95: -2650796354565069084
+      Icons_jars_cloth-lids_96: 9037689094448870400
+      Icons_jars_cloth-lids_97: 4133255115953968239
+      Icons_jars_cloth-lids_98: -3055171104130711251
+      Icons_jars_cloth-lids_99: 9087454348943804204
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
