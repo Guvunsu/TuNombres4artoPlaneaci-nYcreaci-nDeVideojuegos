@@ -1,14 +1,17 @@
 //using UnityEngine;
 
-//public class ObjectsManager : MonoBehaviour {
+//public class ObjectsManager : MonoBehaviour
+//{
 //    [SerializeField] GameObject _gameObjectVessel;
 //    [SerializeField] Rigidbody2D _rb2DJamJar;
 //    [SerializeField] float vesselSpawnMaxPos;
 //    [SerializeField] float vesselSpawnMinPos;
 //    bool vesselIsGround = true;
-
-//    private void OnCollisionEnter2D(Collision2D collision) {
-//        if (collision.gameObject.CompareTag("Player")) {
+//    // 84 jams
+//    private void OnCollisionEnter2D(Collision2D collision)
+//    {
+//        if (collision.gameObject.CompareTag("Player"))
+//        {
 //            Debug.Log("Estoy tocando el jugador");
 //            Destroy(gameObject, 0.5f);
 //            Debug.Log("Lo estoy tocando y lo desactivo o destruyo");
@@ -36,14 +39,16 @@
 
 //    //    }
 //    //}
-//    void Start() {
+//    void Start()
+//    {
 //        _rb2DJamJar.GetComponent<Rigidbody2D>();
 //        _gameObjectVessel = GetComponent<GameObject>();
 //        //VesselSpawning();
 //    }
 
 //    // Update is called once per frame
-//    void Update() {
+//    void Update()
+//    {
 
 //    }
 //}
