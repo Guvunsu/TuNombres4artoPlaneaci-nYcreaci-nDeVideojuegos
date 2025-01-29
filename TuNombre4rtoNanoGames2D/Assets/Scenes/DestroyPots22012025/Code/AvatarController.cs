@@ -22,7 +22,7 @@ namespace Gavryk.PlaneationVideoGames {
         Vector2 moveInput;
         [SerializeField] Animator animatorPlayer;
         [SerializeField] PlayerInput inputActions;
-        
+
         [SerializeField] AnimatorController animatorController;
         [SerializeField] float walkSpeedPlayer;
         [SerializeField] float runningSpeedPlayer;
@@ -32,9 +32,9 @@ namespace Gavryk.PlaneationVideoGames {
 
         #region UnityMethods
         void Start() {
-            //inputActions = GetComponent<PlayerInput>();
             rbPlayer2D = GetComponent<Rigidbody2D>();
             animatorPlayer = GetComponent<Animator>();
+            gameObject = GetComponent<GameObject>();
 
             agent = GetComponent<Agent>();
             agent = Agent.IDLE;
@@ -56,37 +56,31 @@ namespace Gavryk.PlaneationVideoGames {
         }
         #endregion UnityMethods
 
-        #region PrivateMethods
-
-        #region OnEnable or Disable 
-        private void OnEnable() {
-            //inputActions.Player.Move.performed += MovePlayer;
-            //inputActions.Player.Move.canceled += StopMoving;
-            //inputActions.Player.Attack.performed += AttackPlayer;
-            //inputActions.Player.Run.performed += RunPlayer;
-            //inputActions.Player.Run.canceled += StopRunning;
-
-            //inputActions.Enable();
-        }
-
-        private void OnDisable() {
-            //inputActions.Disable();
-        }
-        #endregion OnEnable or Disable 
+        #region PublicMethods
 
         #region MovePlayer
         public void IDLEPlayer(InputAction.CallbackContext value) {
             animatorPlayer.SetBool("isMoving", false);
             rbPlayer2D.linearVelocity = Vector2.zero;
-            agent = Agent.IDLE;
+            //agent = Agent.IDLE;
         }
         public void MovePlayer(InputAction.CallbackContext value) {
             Debug.Log("Hola Mundoooooo :D");
-            moveInput = value.ReadValue<Vector2>();
-            walkSpeedPlayer = IsRunning ? runningSpeedPlayer : walkSpeedPlayer;
-            rbPlayer2D.linearVelocity = moveInput * walkSpeedPlayer;
-            animatorPlayer.SetBool("isMoving", true);
-            agent = Agent.MOVE;
+            //Una posicion con el vector2d multiplicar 1 por 1 y 0 y con negativos para que se mueva en X y Y ejes 
+            switch (agent = Agent.MOVE) {
+                case Agent.MOVE:
+                    moveInput = value.ReadValue<Vector2>();
+                    walkSpeedPlayer = IsRunning ? runningSpeedPlayer : walkSpeedPlayer;
+                    transform.position = Vector2.right * 1 * walkSpeedPlayer;
+                    transform.position = Vector2.left * 1 * walkSpeedPlayer;
+                    transform.position = Vector2.down * 1 * walkSpeedPlayer;
+                    transform.position = Vector2.up * 1 * walkSpeedPlayer;
+                    transform.position = moveInput;
+                    rbPlayer2D.linearVelocity = moveInput * walkSpeedPlayer;
+                    animatorPlayer.SetBool("isMoving", true);
+                    // agent = Agent.MOVE;
+                    break;
+            }
         }
         public void StopMoving(InputAction.CallbackContext value) {
             moveInput = Vector2.zero;
@@ -123,9 +117,6 @@ namespace Gavryk.PlaneationVideoGames {
         }
         #endregion AttackPlayer
 
-        #endregion PrivateMethods
-
-        #region PublicMethods
         public void OnCollisionEnter2D(Collision2D collision) {
             if (collision.gameObject.CompareTag("Jar")) {
                 Destroy(collision.gameObject, 0.666f);
@@ -137,7 +128,7 @@ namespace Gavryk.PlaneationVideoGames {
                 return;
             } else if (gameObject) {
                 maxCurrentLife = 0;
-                OnDisable();
+                print("GameOver");
             }
         }
 
