@@ -6,7 +6,8 @@ using static UnityEngine.Rendering.DebugUI;
 
 namespace Gavryk.PlaneationVideoGames
 {
-
+    // hacerlo nostalgico con Aplicaction.targetFrameRate= 24fps
+    // estudiar los apuntadores de C++ 
     #region ENUM
     public enum States
     {
@@ -42,6 +43,10 @@ namespace Gavryk.PlaneationVideoGames
         #endregion Variables
 
         #region UnityMethods
+        // es cuando es la primera vexz que arranque, 1 vez 
+        // el awake es cuado se prende o se apaga el objecto con el setactive o el check box del object , n veces
+
+        // ambos son de activaciones de objetos 
         void Start()
         {
             rbPlayer2D = gameObject.GetComponent<Rigidbody2D>();
@@ -50,16 +55,14 @@ namespace Gavryk.PlaneationVideoGames
         }
 
 
-        void Update()
+        void FixedUpdate()
         {
             switch (_currentAgentState)
             {
                 case States.IDLE:
-                    //IDLEPlayer();
                     rbPlayer2D.linearVelocity = Vector2.zero;
                     break;
                 case States.MOVING:
-                    //MovePlayer();
                     rbPlayer2D.linearVelocity = moveInput * walkSpeedPlayer; //*Time.deltaTime
                     break;
                 case States.ATTACKING:
@@ -78,7 +81,6 @@ namespace Gavryk.PlaneationVideoGames
             Debug.Log("Hola Mundoooooo :D");
             if (value.performed)
             {
-                //Una posicion con el vector2d multiplicar 1 por 1 y 0 y con negativos para que se mueva en X y Y ejes 
                 moveInput = value.ReadValue<Vector2>();
                 walkSpeedPlayer = IsRunning ? runningSpeedPlayer : walkSpeedPlayer;
                 //TRANSLATION FORMULA
@@ -97,12 +99,14 @@ namespace Gavryk.PlaneationVideoGames
             moveInput = Vector2.zero;
             walkSpeedPlayer = 0;
             _currentAgentState = States.IDLE;
+            StateMechanic(StateMechanics.STOP);
         }
         public void RunPlayer(InputAction.CallbackContext value)
         {
             IsRunning = true;
             walkSpeedPlayer = runningSpeedPlayer * 2;
             _currentAgentState = States.MOVING;
+            StateMechanic(StateMechanics.MOVE);
         }
         public void StopRunning(InputAction.CallbackContext value)
         {
@@ -110,26 +114,26 @@ namespace Gavryk.PlaneationVideoGames
             IsRunning = false;
             runningSpeedPlayer = 0;
             _currentAgentState = States.IDLE;
+            StateMechanic(StateMechanics.STOP);
         }
         #endregion MovePlayer
 
         #region AttackPlayer
         public void AttackPlayer(InputAction.CallbackContext value)
         {
-            rbPlayer2D.linearVelocity = Vector2.zero;
-            switch (_currentAgentState)
+            if (value.performed)
             {
-                case States.ATTACKING:
-                    animatorPlayer.SetTrigger("Attack");
-                    Invoke(nameof(EndAttack), 0.7f);
-                    break;
-                default:
-                    break;
+                moveInput = value.ReadValue<Vector2>();
+                _currentAgentState = States.ATTACKING;
+                StateMechanic(StateMechanics.ATTACK);
+                animatorPlayer.SetBool("Attack", true);
+                Invoke(nameof(AttackPlayer), 0.7f); // no se si quitar esta linea de codigo 
             }
-        }
-        public void EndAttack(InputAction.CallbackContext value)
-        {
-            _currentAgentState = States.IDLE;
+            else if (value.canceled)
+            {
+                _currentAgentState = States.IDLE;  //TODO: Corregir
+                StateMechanic(StateMechanics.STOP);
+            }
         }
         #endregion AttackPlayer
 
@@ -160,7 +164,6 @@ namespace Gavryk.PlaneationVideoGames
         {
             animatorPlayer.SetBool(value.ToString(), true);
         }
-
 
         #endregion PublciMethods
 
