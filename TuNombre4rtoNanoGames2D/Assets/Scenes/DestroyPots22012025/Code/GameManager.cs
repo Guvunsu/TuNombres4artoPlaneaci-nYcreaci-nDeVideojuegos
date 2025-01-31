@@ -19,7 +19,6 @@ public class GameManager : MonoBehaviour
     void Start()
     {
         txtPROGUI = GetComponent<TextMeshProUGUI>();
-        vessel = GetComponent<GameObject[]>();
     }
 
     void Update()
