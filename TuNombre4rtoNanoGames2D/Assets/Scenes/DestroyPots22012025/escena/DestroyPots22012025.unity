@@ -2809,10 +2809,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f89e17e87b88664a9c402858f360485, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  timerActive: 0
   timer: 0
-  timeTxt: {fileID: 2076969878}
-  winner: 0
-  victoryTxt: {fileID: 1314960853}
+  timeTxt: {fileID: 57426864}
   vessel:
   - {fileID: 24415970}
   - {fileID: 612148313}
@@ -2873,6 +2872,8 @@ MonoBehaviour:
   - {fileID: 606647570}
   - {fileID: 873822206}
   - {fileID: 1169080100}
+  vicotoryPanel: {fileID: 1257770818}
+  losePanel: {fileID: 1229174599}
 --- !u!1 &796791897
 GameObject:
   m_ObjectHideFlags: 0
