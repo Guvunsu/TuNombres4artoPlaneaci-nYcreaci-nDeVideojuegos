@@ -141,7 +141,7 @@ namespace Gavryk.PlaneationVideoGames
         {
             if (collision.gameObject.CompareTag("Jar"))
             {
-                Destroy(collision.gameObject, 0.666f);
+                Destroy(collision.gameObject, 0.1f);
             }
         }
         public void OnTriggerEnter(Collider other)

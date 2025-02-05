@@ -35,6 +35,7 @@ public class GameManager : MonoBehaviour {// timer y condicion de victoria al de
     void VictoryAndLosePanelActive() {
         // Elimina los objetos destruidos de la lista
         vessel = System.Array.FindAll(vessel, obj => obj != null); //lo busque en el internet
+
         if (vessel.Length == 0) {
             timerActive = false;
             vicotoryPanel.SetActive(true); 
