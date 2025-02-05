@@ -13,14 +13,16 @@ namespace Gavryk.PlaneationVideoGames
     {
         IDLE,
         MOVING,
-        ATTACKING
+        ATTACKING,
+        DEATH
     }
 
     public enum StateMechanics  //Actions
     {
         STOP,
         MOVE,
-        ATTACK
+        ATTACK,
+        DIE
     }
 
     #endregion ENUM
